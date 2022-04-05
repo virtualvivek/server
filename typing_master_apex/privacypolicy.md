@@ -1,4 +1,4 @@
-## Privacy Policy
+# Privacy Policy
 
 Binary inc. built the Typing Master Apex app as a Free app.
 This SERVICE is provided by binary inc. at no cost and is intended for use as is.
