@@ -21,7 +21,7 @@ The extension does not use any third-party services that may collect information
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
 
-**Host Permission***
+**Host Permission**
 
 A Host Permission may require to check if user enters on the specific sites and execute extention only on those site pages to provide better dark mode experience.
 
